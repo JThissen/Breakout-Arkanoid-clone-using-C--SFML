@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Anim.cpp
+  Ball.cpp
+  Blocks.cpp
+  Collision.cpp
+  Paddle.cpp
+  PowerUps.cpp
+  SFMLtemplate.cpp
+  Generating code
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML template.vcxproj -> C:\Users\joost\Desktop\Breakout by Joost Thissen s1767089 C++\Breakout\Release\SFML template.exe
+  SFML template.vcxproj -> C:\Users\joost\Desktop\Breakout by Joost Thissen s1767089 C++\Breakout\Release\SFML template.pdb (Full PDB)
